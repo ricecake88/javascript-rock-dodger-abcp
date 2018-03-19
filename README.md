@@ -17,7 +17,7 @@ So that we don't catch you off-guard, know that this project is meant to be diff
 ### `window.requestAnimationFrame()`
 
 This function tells the browser that we want to animate some change on the page. We'll use it in this lab for animating the movement of rocks and the dodger.
-
+n test
 We can use [`window.requestAnimationFrame()`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame) by passing it a callback that contains our animation:
 
 ``` javascript

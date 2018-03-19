@@ -184,7 +184,7 @@ describe('Rock Dodger', () => {
         window.moveDodgerRight.restore()
       })
     })
-
+/*
     describe('e.which === LEFT_ARROW', () => {
       let e, spy
 
@@ -223,7 +223,7 @@ describe('Rock Dodger', () => {
         window.moveDodgerLeft.restore()
       })
     })
-
+*/
     describe('e.which === RIGHT_ARROW', () => {
       let e, spy
 
